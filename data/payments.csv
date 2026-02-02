@@ -1,0 +1,11 @@
+user_id,step,timestamp
+1,visit,2025-01-01
+1,add_to_cart,2025-01-01
+1,checkout,2025-01-01
+1,payment_success,2025-01-01
+2,visit,2025-01-01
+2,add_to_cart,2025-01-01
+2,checkout,2025-01-01
+3,visit,2025-01-01
+3,add_to_cart,2025-01-01
+4,visit,2025-01-01
