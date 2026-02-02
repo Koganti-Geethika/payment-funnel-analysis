@@ -7,7 +7,7 @@ st.set_page_config(page_title="Payment Funnel Analysis", layout="centered")
 
 st.title("💳 Payment Funnel Analysis Dashboard")
 
-API_URL = "http://localhost:5000/funnel"
+API_URL = "https://payment-funnel-analysis.onrender.com/funnel"
 
 try:
     response = requests.get(API_URL)
