@@ -12,13 +12,14 @@ Visit → Add to Cart → Checkout → Payment Success
 - Frontend: Streamlit + Plotly
 - Data: CSV
 
-## How to Run Locally
-See deployment steps below.
+## 🔗 Live Project Links
 
-## 🔗 Live Deployment Links
-
-### 🚀 Frontend Dashboard
-https://payment-funnel-analysis-<your-id>.streamlit.app
+### 🌐 Frontend Dashboard
+https://payment-funnel-analysis-rnvpgkl7prunrd7rer6u7f.streamlit.app/
 
 ### 🔌 Backend API
 https://payment-funnel-analysis.onrender.com/funnel
+
+### 💻 Source Code
+https://github.com/Koganti-Geethika/payment-funnel-analysis
+
