@@ -14,3 +14,11 @@ Visit → Add to Cart → Checkout → Payment Success
 
 ## How to Run Locally
 See deployment steps below.
+
+## 🔗 Live Deployment Links
+
+### 🚀 Frontend Dashboard
+https://payment-funnel-analysis-<your-id>.streamlit.app
+
+### 🔌 Backend API
+https://payment-funnel-analysis.onrender.com/funnel
